@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.button1 {
+  color: white;
+  width: 98px;
+  height: 35px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: solid;
+  background-color: #007bff;
+}
+.container {
+  text-align: center;
+  padding: 20px;
+  font-family: 'Roboto';
+}
+.counter {
+  color: #c20a72;
+  margin-right: 5px;
+}
+.heading {
+  margin: 20px;
+}
